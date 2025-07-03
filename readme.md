@@ -1,8 +1,12 @@
 # 🚀 Indie Developer Projects by Eagien
 
 Hi, I'm an indie developer who loves building fun, useful, and experimental web products. Here are some of my launched websites:
-
 ---
+## [Date Everything – 100+ Voiced Romanceable Objects & Guides](https://www.dateeverything.live)
+Explore all 100+ voiced characters in Date Everything! Find romance guides, voice actor profiles, and tips to unlock every dateable object in this absurdly charming simulator.
+> Keywords: Date Everything, date everything wiki, date everything guide, voiced characters, romance objects, date everything characters, dating simulator 2025, sandbox dating sim, sassy chap games, team17, visual novel, object dating sim, dateviator glasses, date everything voice actors, date everything character list
+---
+
 ## [Random Animal Generator](https://www.randomanimal.cc)
 Random animal generator featuring 500+ species! Instantly discover amazing animals from lions to lemurs. Perfect for creativity and education.
 
